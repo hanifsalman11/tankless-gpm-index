@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "heater_name": "Rinnai RU199iN SENSEI Super High Efficiency Plus",
+    "slug": "rinnai-ru199in-sensei-super-high-efficiency-plus-gpm-temp-rise-calculator",
+    "title": "Rinnai RU199iN SENSEI Super High Efficiency Plus GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Rinnai RU199iN SENSEI Super High Efficiency Plus.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-10-24"
+  },
+  {
+    "heater_name": "Navien NPE-240A2 Condensing Recirculating Tankless",
+    "slug": "navien-npe-240a2-condensing-recirculating-tankless-gpm-temp-rise-calculator",
+    "title": "Navien NPE-240A2 Condensing Recirculating Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.7 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Navien NPE-240A2 Condensing Recirculating Tankless.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.7,
+    "date": "2026-10-24"
+  },
+  {
+    "heater_name": "Navien NPE-180A2 Condensing Tankless Water Heater",
+    "slug": "navien-npe-180a2-condensing-tankless-water-heater-gpm-temp-rise-calculator",
+    "title": "Navien NPE-180A2 Condensing Tankless Water Heater GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (5.8 GPM summer / 3.8 GPM winter), simultaneous showers (1–2), and utility sizing for Navien NPE-180A2 Condensing Tankless Water Heater.",
+    "power_label": "150K BTU Gas",
+    "gpm_50": 5.8,
+    "date": "2026-10-24"
+  }
+]

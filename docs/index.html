@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TanklessGPMIndex — Tankless Water Heater GPM, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+  <meta name="description" content="Calculate exact tankless water heater GPM flow rate by groundwater temperature rise (ΔT), simultaneous showers, gas BTU, and 240V breaker sizes for Rinnai, Navien, EcoSmart, Stiebel Eltron, and Rheem units.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/tankless-gpm-index/">
+  <link rel="alternate" type="application/rss+xml" title="TanklessGPMIndex RSS Feed" href="https://hanifsalman11.github.io/tankless-gpm-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-rose-500 text-white px-2 py-0.5 rounded font-black">TANKLESS</span>GPMIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Tankless%2BWater%2BHeater%2B199000%2BBTU%2BRinnai%2BNavien%2BEcoSmart&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-rose-500 hover:bg-rose-400 text-white font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Tankless Water Heaters on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Tankless Water Heater GPM & Temp Rise (ΔT) Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your tankless water heater model or home bathroom size below to calculate real-world winter vs. summer GPM output, simultaneous showers, and required gas/breaker specs.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search heater model or home size (e.g. Rinnai RU199iN, Navien NPE-240A2, EcoSmart 27, Stiebel Tempra, 3 Bathroom...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-rose-500">
+      </div>
+    </div>
+
+    <div id="heaterGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="navien-npe-180a2-condensing-tankless-water-heater-gpm-temp-rise-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-rose-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-rose-500 text-white px-2.5 py-0.5 rounded">150K BTU Gas</span>
+            <span class="text-xs text-slate-400">50°F ΔT: 5.8 GPM</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-rose-400 transition">Navien NPE-180A2 Condensing Tankless Water Heater GPM Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact hot water GPM flow rate (5.8 GPM summer / 3.8 GPM winter), simultaneous showers (1–2), and utility sizing for Navien NPE-180A2 Condensing Tankless Water Heater.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-rose-400">Calculate ΔT Flow & Showers →</span>
+        </a>
+        <a href="navien-npe-240a2-condensing-recirculating-tankless-gpm-temp-rise-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-rose-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-rose-500 text-white px-2.5 py-0.5 rounded">199K BTU Gas</span>
+            <span class="text-xs text-slate-400">50°F ΔT: 7.7 GPM</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-rose-400 transition">Navien NPE-240A2 Condensing Recirculating Tankless GPM Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact hot water GPM flow rate (7.7 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Navien NPE-240A2 Condensing Recirculating Tankless.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-rose-400">Calculate ΔT Flow & Showers →</span>
+        </a>
+        <a href="rinnai-ru199in-sensei-super-high-efficiency-plus-gpm-temp-rise-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-rose-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-rose-500 text-white px-2.5 py-0.5 rounded">199K BTU Gas</span>
+            <span class="text-xs text-slate-400">50°F ΔT: 7.6 GPM</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-rose-400 transition">Rinnai RU199iN SENSEI Super High Efficiency Plus GPM Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Rinnai RU199iN SENSEI Super High Efficiency Plus.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-rose-400">Calculate ΔT Flow & Showers →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 TanklessGPMIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('heaterGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
