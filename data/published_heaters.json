@@ -52,5 +52,32 @@
     "power_label": "150K BTU Gas",
     "gpm_50": 4.9,
     "date": "2026-10-25"
+  },
+  {
+    "heater_name": "EcoSmart ECO 27 (27kW 240V) Electric Tankless",
+    "slug": "ecosmart-eco-27-27kw-240v-electric-tankless-gpm-temp-rise-calculator",
+    "title": "EcoSmart ECO 27 (27kW 240V) Electric Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (3.6 GPM summer / 2.4 GPM winter), simultaneous showers (1–1), and utility sizing for EcoSmart ECO 27 (27kW 240V) Electric Tankless.",
+    "power_label": "27 kW Electric",
+    "gpm_50": 3.6,
+    "date": "2026-10-25"
+  },
+  {
+    "heater_name": "EcoSmart ECO 18 (18kW 240V) Electric Tankless",
+    "slug": "ecosmart-eco-18-18kw-240v-electric-tankless-gpm-temp-rise-calculator",
+    "title": "EcoSmart ECO 18 (18kW 240V) Electric Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (2.4 GPM summer / 1.6 GPM winter), simultaneous showers (1–1), and utility sizing for EcoSmart ECO 18 (18kW 240V) Electric Tankless.",
+    "power_label": "18 kW Electric",
+    "gpm_50": 2.4,
+    "date": "2026-10-25"
+  },
+  {
+    "heater_name": "EcoSmart ECO 36 (36kW 240V) Whole-Home Electric",
+    "slug": "ecosmart-eco-36-36kw-240v-whole-home-electric-gpm-temp-rise-calculator",
+    "title": "EcoSmart ECO 36 (36kW 240V) Whole-Home Electric GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (4.9 GPM summer / 3.2 GPM winter), simultaneous showers (1–2), and utility sizing for EcoSmart ECO 36 (36kW 240V) Whole-Home Electric.",
+    "power_label": "36 kW Electric",
+    "gpm_50": 4.9,
+    "date": "2026-10-25"
   }
 ]
