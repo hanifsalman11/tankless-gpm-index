@@ -25,5 +25,32 @@
     "power_label": "150K BTU Gas",
     "gpm_50": 5.8,
     "date": "2026-10-24"
+  },
+  {
+    "heater_name": "Rinnai RXP199iN Built-In Recirculation Pump Tankless",
+    "slug": "rinnai-rxp199in-built-in-recirculation-pump-tankless-gpm-temp-rise-calculator",
+    "title": "Rinnai RXP199iN Built-In Recirculation Pump Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.7 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Rinnai RXP199iN Built-In Recirculation Pump Tankless.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.7,
+    "date": "2026-10-25"
+  },
+  {
+    "heater_name": "Rinnai RL94iN High-Efficiency Non-Condensing",
+    "slug": "rinnai-rl94in-high-efficiency-non-condensing-gpm-temp-rise-calculator",
+    "title": "Rinnai RL94iN High-Efficiency Non-Condensing GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (6.6 GPM summer / 4.4 GPM winter), simultaneous showers (2–3), and utility sizing for Rinnai RL94iN High-Efficiency Non-Condensing.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 6.6,
+    "date": "2026-10-25"
+  },
+  {
+    "heater_name": "Rinnai V65iN 6.5 GPM Indoor Tankless Water Heater",
+    "slug": "rinnai-v65in-65-gpm-indoor-tankless-water-heater-gpm-temp-rise-calculator",
+    "title": "Rinnai V65iN 6.5 GPM Indoor Tankless Water Heater GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (4.9 GPM summer / 3.3 GPM winter), simultaneous showers (1–2), and utility sizing for Rinnai V65iN 6.5 GPM Indoor Tankless Water Heater.",
+    "power_label": "150K BTU Gas",
+    "gpm_50": 4.9,
+    "date": "2026-10-25"
   }
 ]
