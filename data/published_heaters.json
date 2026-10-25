@@ -79,5 +79,32 @@
     "power_label": "36 kW Electric",
     "gpm_50": 4.9,
     "date": "2026-10-25"
+  },
+  {
+    "heater_name": "Stiebel Eltron Tempra 24 Plus Advanced Flow Control",
+    "slug": "stiebel-eltron-tempra-24-plus-advanced-flow-control-gpm-temp-rise-calculator",
+    "title": "Stiebel Eltron Tempra 24 Plus Advanced Flow Control GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (3.2 GPM summer / 2.2 GPM winter), simultaneous showers (1–1), and utility sizing for Stiebel Eltron Tempra 24 Plus Advanced Flow Control.",
+    "power_label": "24 kW Electric",
+    "gpm_50": 3.2,
+    "date": "2026-10-25"
+  },
+  {
+    "heater_name": "Stiebel Eltron Tempra 29 Plus Whole-House Electric",
+    "slug": "stiebel-eltron-tempra-29-plus-whole-house-electric-gpm-temp-rise-calculator",
+    "title": "Stiebel Eltron Tempra 29 Plus Whole-House Electric GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (3.9 GPM summer / 2.6 GPM winter), simultaneous showers (1–1), and utility sizing for Stiebel Eltron Tempra 29 Plus Whole-House Electric.",
+    "power_label": "29 kW Electric",
+    "gpm_50": 3.9,
+    "date": "2026-10-25"
+  },
+  {
+    "heater_name": "Stiebel Eltron Tempra 36 Plus Cold-Climate Electric",
+    "slug": "stiebel-eltron-tempra-36-plus-cold-climate-electric-gpm-temp-rise-calculator",
+    "title": "Stiebel Eltron Tempra 36 Plus Cold-Climate Electric GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (4.9 GPM summer / 3.2 GPM winter), simultaneous showers (1–2), and utility sizing for Stiebel Eltron Tempra 36 Plus Cold-Climate Electric.",
+    "power_label": "36 kW Electric",
+    "gpm_50": 4.9,
+    "date": "2026-10-25"
   }
 ]
