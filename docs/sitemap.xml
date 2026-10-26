@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/tankless-gpm-index/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,6 +93,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/tankless-gpm-index/rheem-rtex-18-18kw-240v-tankless-electric-gpm-temp-rise-calculator.html</loc>
     <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/tankless-gpm-index/noritz-ez111dv-condensing-top-mount-replacement-gpm-temp-rise-calculator.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/tankless-gpm-index/noritz-nrc66dvn-66-gpm-condensing-tankless-gpm-temp-rise-calculator.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/tankless-gpm-index/takagi-t-h3-dv-n-condensing-100-gpm-tankless-gpm-temp-rise-calculator.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
