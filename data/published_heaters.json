@@ -160,5 +160,32 @@
     "power_label": "199K BTU Gas",
     "gpm_50": 7.6,
     "date": "2026-10-26"
+  },
+  {
+    "heater_name": "A.O. Smith ATI-540H-N Condensing 10.0 GPM Tankless",
+    "slug": "ao-smith-ati-540h-n-condensing-100-gpm-tankless-gpm-temp-rise-calculator",
+    "title": "A.O. Smith ATI-540H-N Condensing 10.0 GPM Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.0 GPM winter), simultaneous showers (2–3), and utility sizing for A.O. Smith ATI-540H-N Condensing 10.0 GPM Tankless.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-10-26"
+  },
+  {
+    "heater_name": "Bradford White Infiniti K Series 199,000 BTU",
+    "slug": "bradford-white-infiniti-k-series-199000-btu-gpm-temp-rise-calculator",
+    "title": "Bradford White Infiniti K Series 199,000 BTU GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Bradford White Infiniti K Series 199,000 BTU.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-10-26"
+  },
+  {
+    "heater_name": "Bosch Greentherm T9900i SE 199k BTU WiFi Tankless",
+    "slug": "bosch-greentherm-t9900i-se-199k-btu-wifi-tankless-gpm-temp-rise-calculator",
+    "title": "Bosch Greentherm T9900i SE 199k BTU WiFi Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Bosch Greentherm T9900i SE 199k BTU WiFi Tankless.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-10-26"
   }
 ]
