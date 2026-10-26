@@ -187,5 +187,32 @@
     "power_label": "199K BTU Gas",
     "gpm_50": 7.6,
     "date": "2026-10-26"
+  },
+  {
+    "heater_name": "Marey GA16LP 4.3 GPM Liquid Propane Tankless",
+    "slug": "marey-ga16lp-43-gpm-liquid-propane-tankless-gpm-temp-rise-calculator",
+    "title": "Marey GA16LP 4.3 GPM Liquid Propane Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (3.9 GPM summer / 2.6 GPM winter), simultaneous showers (1–1), and utility sizing for Marey GA16LP 4.3 GPM Liquid Propane Tankless.",
+    "power_label": "115K BTU Gas",
+    "gpm_50": 3.9,
+    "date": "2026-10-26"
+  },
+  {
+    "heater_name": "Camplux BD264 2.64 GPM Off-Grid Outdoor Propane",
+    "slug": "camplux-bd264-264-gpm-off-grid-outdoor-propane-gpm-temp-rise-calculator",
+    "title": "Camplux BD264 2.64 GPM Off-Grid Outdoor Propane GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (2.2 GPM summer / 1.5 GPM winter), simultaneous showers (1–1), and utility sizing for Camplux BD264 2.64 GPM Off-Grid Outdoor Propane.",
+    "power_label": "68K BTU Gas",
+    "gpm_50": 2.2,
+    "date": "2026-10-26"
+  },
+  {
+    "heater_name": "2-Bathroom Home Tankless Water Heater Sizing",
+    "slug": "2-bathroom-home-tankless-water-heater-sizing-gpm-temp-rise-calculator",
+    "title": "2-Bathroom Home Tankless Water Heater Sizing GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (6.1 GPM summer / 4.1 GPM winter), simultaneous showers (2–3), and utility sizing for 2-Bathroom Home Tankless Water Heater Sizing.",
+    "power_label": "160K BTU Gas",
+    "gpm_50": 6.1,
+    "date": "2026-10-26"
   }
 ]
