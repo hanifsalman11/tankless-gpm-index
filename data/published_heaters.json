@@ -214,5 +214,32 @@
     "power_label": "160K BTU Gas",
     "gpm_50": 6.1,
     "date": "2026-10-26"
+  },
+  {
+    "heater_name": "3-Bathroom Family Home Tankless Water Heater Sizing",
+    "slug": "3-bathroom-family-home-tankless-water-heater-sizing-gpm-temp-rise-calculator",
+    "title": "3-Bathroom Family Home Tankless Water Heater Sizing GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 3-Bathroom Family Home Tankless Water Heater Sizing.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-10-27"
+  },
+  {
+    "heater_name": "4-Bathroom Large Estate Dual-Cascade Tankless Sizing",
+    "slug": "4-bathroom-large-estate-dual-cascade-tankless-sizing-gpm-temp-rise-calculator",
+    "title": "4-Bathroom Large Estate Dual-Cascade Tankless Sizing GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.7 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 4-Bathroom Large Estate Dual-Cascade Tankless Sizing.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.7,
+    "date": "2026-10-27"
+  },
+  {
+    "heater_name": "Northern Cold Groundwater (40°F Inlet / 80°F Rise) Sizing",
+    "slug": "northern-cold-groundwater-40f-inlet-80f-rise-sizing-gpm-temp-rise-calculator",
+    "title": "Northern Cold Groundwater (40°F Inlet / 80°F Rise) Sizing GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.7 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Northern Cold Groundwater (40°F Inlet / 80°F Rise) Sizing.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.7,
+    "date": "2026-10-27"
   }
 ]
