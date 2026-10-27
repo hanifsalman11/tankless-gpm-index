@@ -268,5 +268,32 @@
     "power_label": "55K BTU Gas",
     "gpm_50": 1.9,
     "date": "2026-10-27"
+  },
+  {
+    "heater_name": "Family Of 4",
+    "slug": "family-of-4-gpm-temp-rise-calculator",
+    "title": "Family Of 4 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Family Of 4.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-10-27"
+  },
+  {
+    "heater_name": "2 Bathroom House",
+    "slug": "2-bathroom-house-gpm-temp-rise-calculator",
+    "title": "2 Bathroom House GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 2 Bathroom House.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-10-27"
+  },
+  {
+    "heater_name": "Family Of 6",
+    "slug": "family-of-6-gpm-temp-rise-calculator",
+    "title": "Family Of 6 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Family Of 6.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-10-27"
   }
 ]

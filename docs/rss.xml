@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/tankless-gpm-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Family Of 6 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/family-of-6-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/family-of-6-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Family Of 6.</description>
+    </item>
+    <item>
+      <title>2 Bathroom House GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/2-bathroom-house-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/2-bathroom-house-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 2 Bathroom House.</description>
+    </item>
+    <item>
+      <title>Family Of 4 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/family-of-4-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/family-of-4-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Family Of 4.</description>
+    </item>
+    <item>
       <title>RV & Tiny Cabin On-Demand 55,000 BTU Propane Heater GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/tankless-gpm-index/rv-tiny-cabin-on-demand-55000-btu-propane-heater-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/rv-tiny-cabin-on-demand-55000-btu-propane-heater-gpm-temp-rise-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/tankless-gpm-index/rinnai-rxp199in-built-in-recirculation-pump-tankless-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/rinnai-rxp199in-built-in-recirculation-pump-tankless-gpm-temp-rise-calculator.html</guid>
       <description>Calculate exact hot water GPM flow rate (7.7 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Rinnai RXP199iN Built-In Recirculation Pump Tankless.</description>
-    </item>
-    <item>
-      <title>Navien NPE-180A2 Condensing Tankless Water Heater GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/navien-npe-180a2-condensing-tankless-water-heater-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/navien-npe-180a2-condensing-tankless-water-heater-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (5.8 GPM summer / 3.8 GPM winter), simultaneous showers (1–2), and utility sizing for Navien NPE-180A2 Condensing Tankless Water Heater.</description>
-    </item>
-    <item>
-      <title>Navien NPE-240A2 Condensing Recirculating Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/navien-npe-240a2-condensing-recirculating-tankless-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/navien-npe-240a2-condensing-recirculating-tankless-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.7 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Navien NPE-240A2 Condensing Recirculating Tankless.</description>
-    </item>
-    <item>
-      <title>Rinnai RU199iN SENSEI Super High Efficiency Plus GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/rinnai-ru199in-sensei-super-high-efficiency-plus-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/rinnai-ru199in-sensei-super-high-efficiency-plus-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Rinnai RU199iN SENSEI Super High Efficiency Plus.</description>
     </item>
   </channel>
 </rss>
