@@ -241,5 +241,32 @@
     "power_label": "199K BTU Gas",
     "gpm_50": 7.7,
     "date": "2026-10-27"
+  },
+  {
+    "heater_name": "Southern Warm Groundwater (68°F Inlet / 52°F Rise) Sizing",
+    "slug": "southern-warm-groundwater-68f-inlet-52f-rise-sizing-gpm-temp-rise-calculator",
+    "title": "Southern Warm Groundwater (68°F Inlet / 52°F Rise) Sizing GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (6.1 GPM summer / 4.1 GPM winter), simultaneous showers (2–3), and utility sizing for Southern Warm Groundwater (68°F Inlet / 52°F Rise) Sizing.",
+    "power_label": "160K BTU Gas",
+    "gpm_50": 6.1,
+    "date": "2026-10-27"
+  },
+  {
+    "heater_name": "Radiant Floor Hydronic Heating + DHW Combo Tankless",
+    "slug": "radiant-floor-hydronic-heating-dhw-combo-tankless-gpm-temp-rise-calculator",
+    "title": "Radiant Floor Hydronic Heating + DHW Combo Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.7 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Radiant Floor Hydronic Heating + DHW Combo Tankless.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.7,
+    "date": "2026-10-27"
+  },
+  {
+    "heater_name": "RV & Tiny Cabin On-Demand 55,000 BTU Propane Heater",
+    "slug": "rv-tiny-cabin-on-demand-55000-btu-propane-heater-gpm-temp-rise-calculator",
+    "title": "RV & Tiny Cabin On-Demand 55,000 BTU Propane Heater GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (1.9 GPM summer / 1.2 GPM winter), simultaneous showers (1–1), and utility sizing for RV & Tiny Cabin On-Demand 55,000 BTU Propane Heater.",
+    "power_label": "55K BTU Gas",
+    "gpm_50": 1.9,
+    "date": "2026-10-27"
   }
 ]
