@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/tankless-gpm-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Whole House GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/whole-house-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/whole-house-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Whole House.</description>
+    </item>
+    <item>
+      <title>3 Bathrooms GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/3-bathrooms-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/3-bathrooms-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 3 Bathrooms.</description>
+    </item>
+    <item>
+      <title>Family Of 5 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/family-of-5-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/family-of-5-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Family Of 5.</description>
+    </item>
+    <item>
       <title>1 Bathroom House GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/tankless-gpm-index/1-bathroom-house-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/1-bathroom-house-gpm-temp-rise-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/tankless-gpm-index/stiebel-eltron-tempra-24-plus-advanced-flow-control-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/stiebel-eltron-tempra-24-plus-advanced-flow-control-gpm-temp-rise-calculator.html</guid>
       <description>Calculate exact hot water GPM flow rate (3.2 GPM summer / 2.2 GPM winter), simultaneous showers (1–1), and utility sizing for Stiebel Eltron Tempra 24 Plus Advanced Flow Control.</description>
-    </item>
-    <item>
-      <title>EcoSmart ECO 36 (36kW 240V) Whole-Home Electric GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/ecosmart-eco-36-36kw-240v-whole-home-electric-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/ecosmart-eco-36-36kw-240v-whole-home-electric-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (4.9 GPM summer / 3.2 GPM winter), simultaneous showers (1–2), and utility sizing for EcoSmart ECO 36 (36kW 240V) Whole-Home Electric.</description>
-    </item>
-    <item>
-      <title>EcoSmart ECO 18 (18kW 240V) Electric Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/ecosmart-eco-18-18kw-240v-electric-tankless-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/ecosmart-eco-18-18kw-240v-electric-tankless-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (2.4 GPM summer / 1.6 GPM winter), simultaneous showers (1–1), and utility sizing for EcoSmart ECO 18 (18kW 240V) Electric Tankless.</description>
-    </item>
-    <item>
-      <title>EcoSmart ECO 27 (27kW 240V) Electric Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/ecosmart-eco-27-27kw-240v-electric-tankless-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/ecosmart-eco-27-27kw-240v-electric-tankless-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (3.6 GPM summer / 2.4 GPM winter), simultaneous showers (1–1), and utility sizing for EcoSmart ECO 27 (27kW 240V) Electric Tankless.</description>
     </item>
   </channel>
 </rss>
