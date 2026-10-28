@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/tankless-gpm-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Water Heater Code 12 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-code-12-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-code-12-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Code 12.</description>
+    </item>
+    <item>
+      <title>Water Heater Code 10 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-code-10-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-code-10-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Code 10.</description>
+    </item>
+    <item>
+      <title>Water Heater GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater.</description>
+    </item>
+    <item>
       <title>Water Heater Code 11 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-code-11-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-code-11-gpm-temp-rise-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/tankless-gpm-index/noritz-ez111dv-condensing-top-mount-replacement-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/noritz-ez111dv-condensing-top-mount-replacement-gpm-temp-rise-calculator.html</guid>
       <description>Calculate exact hot water GPM flow rate (7.7 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Noritz EZ111DV Condensing Top-Mount Replacement.</description>
-    </item>
-    <item>
-      <title>Rheem RTEX-18 (18kW 240V) Tankless Electric GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/rheem-rtex-18-18kw-240v-tankless-electric-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/rheem-rtex-18-18kw-240v-tankless-electric-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (2.4 GPM summer / 1.6 GPM winter), simultaneous showers (1–1), and utility sizing for Rheem RTEX-18 (18kW 240V) Tankless Electric.</description>
-    </item>
-    <item>
-      <title>Rheem RTEX-24 (24kW 240V) Professional Classic Electric GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/rheem-rtex-24-24kw-240v-professional-classic-electric-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/rheem-rtex-24-24kw-240v-professional-classic-electric-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (3.2 GPM summer / 2.2 GPM winter), simultaneous showers (1–1), and utility sizing for Rheem RTEX-24 (24kW 240V) Professional Classic Electric.</description>
-    </item>
-    <item>
-      <title>Rheem RTGH-95DVLN-3 Prestige Condensing Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/rheem-rtgh-95dvln-3-prestige-condensing-tankless-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/rheem-rtgh-95dvln-3-prestige-condensing-tankless-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Rheem RTGH-95DVLN-3 Prestige Condensing Tankless.</description>
     </item>
   </channel>
 </rss>
