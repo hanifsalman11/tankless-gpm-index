@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/tankless-gpm-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>180S2 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/180s2-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/180s2-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 180S2.</description>
+    </item>
+    <item>
+      <title>240S2 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/240s2-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/240s2-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 240S2.</description>
+    </item>
+    <item>
+      <title>240A2 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/240a2-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/240a2-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 240A2.</description>
+    </item>
+    <item>
       <title>Water Heater Tech Support GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-tech-support-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-tech-support-gpm-temp-rise-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/tankless-gpm-index/3-bathroom-family-home-tankless-water-heater-sizing-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/3-bathroom-family-home-tankless-water-heater-sizing-gpm-temp-rise-calculator.html</guid>
       <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 3-Bathroom Family Home Tankless Water Heater Sizing.</description>
-    </item>
-    <item>
-      <title>2-Bathroom Home Tankless Water Heater Sizing GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/2-bathroom-home-tankless-water-heater-sizing-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/2-bathroom-home-tankless-water-heater-sizing-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (6.1 GPM summer / 4.1 GPM winter), simultaneous showers (2–3), and utility sizing for 2-Bathroom Home Tankless Water Heater Sizing.</description>
-    </item>
-    <item>
-      <title>Camplux BD264 2.64 GPM Off-Grid Outdoor Propane GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/camplux-bd264-264-gpm-off-grid-outdoor-propane-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/camplux-bd264-264-gpm-off-grid-outdoor-propane-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (2.2 GPM summer / 1.5 GPM winter), simultaneous showers (1–1), and utility sizing for Camplux BD264 2.64 GPM Off-Grid Outdoor Propane.</description>
-    </item>
-    <item>
-      <title>Marey GA16LP 4.3 GPM Liquid Propane Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/marey-ga16lp-43-gpm-liquid-propane-tankless-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/marey-ga16lp-43-gpm-liquid-propane-tankless-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (3.9 GPM summer / 2.6 GPM winter), simultaneous showers (1–1), and utility sizing for Marey GA16LP 4.3 GPM Liquid Propane Tankless.</description>
     </item>
   </channel>
 </rss>
