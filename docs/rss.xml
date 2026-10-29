@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/tankless-gpm-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Water Heater Tech Support GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-tech-support-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-tech-support-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Tech Support.</description>
+    </item>
+    <item>
+      <title>Water Heater Error Code 11 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-error-code-11-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-error-code-11-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Error Code 11.</description>
+    </item>
+    <item>
+      <title>Water Heater Troubleshooting GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-troubleshooting-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-troubleshooting-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Troubleshooting.</description>
+    </item>
+    <item>
       <title>Gas Water Heater GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/tankless-gpm-index/gas-water-heater-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/gas-water-heater-gpm-temp-rise-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/tankless-gpm-index/marey-ga16lp-43-gpm-liquid-propane-tankless-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/marey-ga16lp-43-gpm-liquid-propane-tankless-gpm-temp-rise-calculator.html</guid>
       <description>Calculate exact hot water GPM flow rate (3.9 GPM summer / 2.6 GPM winter), simultaneous showers (1–1), and utility sizing for Marey GA16LP 4.3 GPM Liquid Propane Tankless.</description>
-    </item>
-    <item>
-      <title>Bosch Greentherm T9900i SE 199k BTU WiFi Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/bosch-greentherm-t9900i-se-199k-btu-wifi-tankless-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/bosch-greentherm-t9900i-se-199k-btu-wifi-tankless-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Bosch Greentherm T9900i SE 199k BTU WiFi Tankless.</description>
-    </item>
-    <item>
-      <title>Bradford White Infiniti K Series 199,000 BTU GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/bradford-white-infiniti-k-series-199000-btu-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/bradford-white-infiniti-k-series-199000-btu-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Bradford White Infiniti K Series 199,000 BTU.</description>
-    </item>
-    <item>
-      <title>A.O. Smith ATI-540H-N Condensing 10.0 GPM Tankless GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/ao-smith-ati-540h-n-condensing-100-gpm-tankless-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/ao-smith-ati-540h-n-condensing-100-gpm-tankless-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.0 GPM winter), simultaneous showers (2–3), and utility sizing for A.O. Smith ATI-540H-N Condensing 10.0 GPM Tankless.</description>
     </item>
   </channel>
 </rss>
