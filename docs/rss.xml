@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/tankless-gpm-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Water Heater Model 2520 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-model-2520-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-model-2520-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Model 2520.</description>
+    </item>
+    <item>
+      <title>2 Bathrooms GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/2-bathrooms-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/2-bathrooms-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 2 Bathrooms.</description>
+    </item>
+    <item>
+      <title>Radiant Heat GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/radiant-heat-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/radiant-heat-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Radiant Heat.</description>
+    </item>
+    <item>
       <title>Water Heater Warranty Check GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-warranty-check-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-warranty-check-gpm-temp-rise-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-code-11-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-code-11-gpm-temp-rise-calculator.html</guid>
       <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Code 11.</description>
-    </item>
-    <item>
-      <title>Water Heaters GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heaters-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heaters-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heaters.</description>
-    </item>
-    <item>
-      <title>3 Bathroom House GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/3-bathroom-house-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/3-bathroom-house-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 3 Bathroom House.</description>
-    </item>
-    <item>
-      <title>Whole House GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/whole-house-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/whole-house-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Whole House.</description>
     </item>
   </channel>
 </rss>
