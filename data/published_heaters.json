@@ -637,5 +637,14 @@
     "power_label": "199K BTU Gas",
     "gpm_50": 7.6,
     "date": "2026-11-04"
+  },
+  {
+    "heater_name": "Water Heater Reviews",
+    "slug": "water-heater-reviews-gpm-temp-rise-calculator",
+    "title": "Water Heater Reviews GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (3.6 GPM summer / 2.4 GPM winter), simultaneous showers (1–1), and utility sizing for Water Heater Reviews.",
+    "power_label": "27 kW Electric",
+    "gpm_50": 3.6,
+    "date": "2026-11-05"
   }
 ]
