@@ -655,5 +655,32 @@
     "power_label": "199K BTU Gas",
     "gpm_50": 7.6,
     "date": "2026-11-07"
+  },
+  {
+    "heater_name": "Water Heater Not Heating",
+    "slug": "water-heater-not-heating-gpm-temp-rise-calculator",
+    "title": "Water Heater Not Heating GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate by groundwater temperature, simultaneous showers, and gas/breaker sizing for Water Heater Not Heating.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-11"
+  },
+  {
+    "heater_name": "Code 12",
+    "slug": "code-12-gpm-temp-rise-calculator",
+    "title": "Code 12 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate by groundwater temperature, simultaneous showers, and gas/breaker sizing for Code 12.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-11"
+  },
+  {
+    "heater_name": "Water Heater No Hot Water",
+    "slug": "water-heater-no-hot-water-gpm-temp-rise-calculator",
+    "title": "Water Heater No Hot Water GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate by groundwater temperature, simultaneous showers, and gas/breaker sizing for Water Heater No Hot Water.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-11"
   }
 ]
