@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/tankless-gpm-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Code 11 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/code-11-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/code-11-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Code 11.</description>
+    </item>
+    <item>
+      <title>Water Heater Cost GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-cost-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-cost-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Cost.</description>
+    </item>
+    <item>
+      <title>Water Heater Installation GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-installation-gpm-temp-rise-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-installation-gpm-temp-rise-calculator.html</guid>
+      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Installation.</description>
+    </item>
+    <item>
       <title>Water Heater No Hot Water GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-no-hot-water-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-no-hot-water-gpm-temp-rise-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-error-code-11-gpm-temp-rise-calculator.html</link>
       <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-error-code-11-gpm-temp-rise-calculator.html</guid>
       <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Error Code 11.</description>
-    </item>
-    <item>
-      <title>Water Heater Troubleshooting GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-troubleshooting-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-troubleshooting-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Troubleshooting.</description>
-    </item>
-    <item>
-      <title>Gas Water Heater GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/gas-water-heater-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/gas-water-heater-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Gas Water Heater.</description>
-    </item>
-    <item>
-      <title>Water Heater Age GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-age-gpm-temp-rise-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/tankless-gpm-index/water-heater-age-gpm-temp-rise-calculator.html</guid>
-      <description>Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Age.</description>
     </item>
   </channel>
 </rss>

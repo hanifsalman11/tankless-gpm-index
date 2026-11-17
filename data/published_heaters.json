@@ -682,5 +682,32 @@
     "power_label": "199K BTU Gas",
     "gpm_50": 7.6,
     "date": "2026-11-11"
+  },
+  {
+    "heater_name": "Water Heater Installation",
+    "slug": "water-heater-installation-gpm-temp-rise-calculator",
+    "title": "Water Heater Installation GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Installation.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-17"
+  },
+  {
+    "heater_name": "Water Heater Cost",
+    "slug": "water-heater-cost-gpm-temp-rise-calculator",
+    "title": "Water Heater Cost GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Cost.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-17"
+  },
+  {
+    "heater_name": "Code 11",
+    "slug": "code-11-gpm-temp-rise-calculator",
+    "title": "Code 11 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Code 11.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-17"
   }
 ]
