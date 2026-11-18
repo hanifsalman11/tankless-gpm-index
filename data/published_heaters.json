@@ -709,5 +709,14 @@
     "power_label": "199K BTU Gas",
     "gpm_50": 7.6,
     "date": "2026-11-17"
+  },
+  {
+    "heater_name": "Water Heater Codes",
+    "slug": "water-heater-codes-gpm-temp-rise-calculator",
+    "title": "Water Heater Codes GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate by groundwater temperature, simultaneous showers, and gas/breaker sizing for Water Heater Codes.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-18"
   }
 ]
