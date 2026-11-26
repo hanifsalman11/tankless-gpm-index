@@ -754,5 +754,32 @@
     "power_label": "27 kW Electric",
     "gpm_50": 3.6,
     "date": "2026-11-25"
+  },
+  {
+    "heater_name": "Family Of 3",
+    "slug": "family-of-3-gpm-temp-rise-calculator",
+    "title": "Family Of 3 GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Family Of 3.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-26"
+  },
+  {
+    "heater_name": "Water Heater Flush Kit",
+    "slug": "water-heater-flush-kit-gpm-temp-rise-calculator",
+    "title": "Water Heater Flush Kit GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for Water Heater Flush Kit.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-26"
+  },
+  {
+    "heater_name": "240A2 Price",
+    "slug": "240a2-price-gpm-temp-rise-calculator",
+    "title": "240A2 Price GPM Flow Rate, Temp Rise (ΔT) & Sizing Calculator (2026)",
+    "description": "Calculate exact hot water GPM flow rate (7.6 GPM summer / 5.1 GPM winter), simultaneous showers (2–3), and utility sizing for 240A2 Price.",
+    "power_label": "199K BTU Gas",
+    "gpm_50": 7.6,
+    "date": "2026-11-26"
   }
 ]
